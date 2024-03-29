@@ -1,2 +1,1 @@
-
-[Watch the video](https://github.com/Moocchi/Moocchi/blob/main/mp.mp4)
+![Alt Text] (https://github.com/Moocchi/Moocchi/blob/main/amber_roll_bg.gif)
