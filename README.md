@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="color:#e2a754;"># This is About Me</h1>
+<h1 style="color:#e2a754;">This is About Me</h1>
 
 </div>
 
